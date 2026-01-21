@@ -1,2 +1,2 @@
 # PythonPractice
-Repository containing amall miscellaneous projects
+Repository containing small miscellaneous projects
